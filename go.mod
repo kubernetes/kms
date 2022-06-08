@@ -2,7 +2,7 @@
 
 module k8s.io/kms
 
-go 1.21
+go 1.22.0
 
 require (
 	github.com/gogo/protobuf v1.3.2
@@ -19,4 +19,4 @@ require (
 	google.golang.org/protobuf v1.31.0 // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20240221202133-0f2e9357997f
+replace k8s.io/kms => ../kms

@@ -7,7 +7,7 @@ go 1.19
 require (
 	github.com/gogo/protobuf v1.3.2
 	google.golang.org/grpc v1.51.0
-	k8s.io/apimachinery v0.0.0-20230107073608-9f24624c29e7
+	k8s.io/apimachinery v0.0.0-20230112182327-235f5123de4a
 	k8s.io/klog/v2 v2.80.1
 )
 
@@ -22,4 +22,4 @@ require (
 	k8s.io/utils v0.0.0-20221107191617-1a15be271d1d // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20230107073608-9f24624c29e7
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20230112182327-235f5123de4a

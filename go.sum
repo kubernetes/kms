@@ -53,11 +53,11 @@ google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp0
 google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
 google.golang.org/protobuf v1.31.0 h1:g0LDEJHgrBl9N9r17Ru3sqWhkIx2NB67okBHPwC7hs8=
 google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
-k8s.io/apimachinery v0.0.0-20230907021858-82362bc34ae0 h1:tzU1AperxkpvBJuXbU9F1az4/HfUXiMUIYBYeBfAml0=
-k8s.io/apimachinery v0.0.0-20230907021858-82362bc34ae0/go.mod h1:IBT3vBDYP6iFVwc5TyswcA1EzJ75ia8ZvP1xinRgUNo=
-k8s.io/client-go v0.0.0-20230908182338-a52e8a122e1b h1:zZ/Nt9GD5wQKoHXxk1RL4LtX9IJXJpOBYd6HC2LxnLU=
-k8s.io/client-go v0.0.0-20230908182338-a52e8a122e1b/go.mod h1:+5WKx21hGhpg/Ng+BER5EUbLQaAqsKTfFCn7Owe4GhQ=
+k8s.io/apimachinery v0.0.0-20230909181434-fd8daa85285e h1:6zC7lfpiLOlGxE9qAFnwTcJ3bEqlKKWWaVxAZr6edYo=
+k8s.io/apimachinery v0.0.0-20230909181434-fd8daa85285e/go.mod h1:PdcNQGTeFDzS6zavrEgNmA2CJm+g27ZPKhnUpRfaNek=
+k8s.io/client-go v0.0.0-20230909182134-a73949f10aab h1:w/MUuxYXPL9bVZmAswHDagqxQF/6jgY1XjADHBMSEQs=
+k8s.io/client-go v0.0.0-20230909182134-a73949f10aab/go.mod h1:qaThK3dAVeHJKxb7mjB7U3EbGaaGzemzRYp4Fm8ZFKI=
 k8s.io/klog/v2 v2.100.1 h1:7WCHKK6K8fNhTqfBhISHQ97KrnJNFZMcQvKp7gP/tmg=
 k8s.io/klog/v2 v2.100.1/go.mod h1:y1WjHnz7Dj687irZUWR/WLkLc5N1YHtjLdmgWjndZn0=
-k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 h1:qY1Ad8PODbnymg2pRbkyMT/ylpTrCM8P2RJ0yroCyIk=
-k8s.io/utils v0.0.0-20230406110748-d93618cff8a2/go.mod h1:OLgZIPagt7ERELqWJFomSt595RzquPNLL48iOWgYOg0=
+k8s.io/utils v0.0.0-20230726121419-3b25d923346b h1:sgn3ZU783SCgtaSJjpcVVlRqd6GSnlTLKgpAAttJvpI=
+k8s.io/utils v0.0.0-20230726121419-3b25d923346b/go.mod h1:OLgZIPagt7ERELqWJFomSt595RzquPNLL48iOWgYOg0=

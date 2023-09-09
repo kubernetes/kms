@@ -7,8 +7,8 @@ go 1.20
 require (
 	github.com/gogo/protobuf v1.3.2
 	google.golang.org/grpc v1.54.0
-	k8s.io/apimachinery v0.0.0-20230907021858-82362bc34ae0
-	k8s.io/client-go v0.0.0-20230908182338-a52e8a122e1b
+	k8s.io/apimachinery v0.0.0-20230909181434-fd8daa85285e
+	k8s.io/client-go v0.0.0-20230909182134-a73949f10aab
 	k8s.io/klog/v2 v2.100.1
 )
 
@@ -21,11 +21,11 @@ require (
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
-	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 // indirect
+	k8s.io/utils v0.0.0-20230726121419-3b25d923346b // indirect
 )
 
 replace (
-	k8s.io/api => k8s.io/api v0.0.0-20230907022840-7f63b7b88cb6
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20230907021858-82362bc34ae0
-	k8s.io/client-go => k8s.io/client-go v0.0.0-20230908182338-a52e8a122e1b
+	k8s.io/api => k8s.io/api v0.0.0-20230909181734-5e9982075c8d
+	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20230909181434-fd8daa85285e
+	k8s.io/client-go => k8s.io/client-go v0.0.0-20230909182134-a73949f10aab
 )

@@ -51,8 +51,8 @@ google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp0
 google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
 google.golang.org/protobuf v1.31.0 h1:g0LDEJHgrBl9N9r17Ru3sqWhkIx2NB67okBHPwC7hs8=
 google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
-k8s.io/apimachinery v0.0.0-20231010150639-67d44f9b1fe3 h1:O2/AgX6hgw2QILp2lxoGsPGICIpD51/X0U3Dt01jUi8=
-k8s.io/apimachinery v0.0.0-20231010150639-67d44f9b1fe3/go.mod h1:4Af47tS1WBajkTEItD4q/rOAaPzoTx4iic5/l/IRC7E=
+k8s.io/apimachinery v0.29.0-alpha.2 h1:Hc7Qm7rUgZKXAwqP/7pxOIqrKVY9FagZZAQKtqvSqXU=
+k8s.io/apimachinery v0.29.0-alpha.2/go.mod h1:4Af47tS1WBajkTEItD4q/rOAaPzoTx4iic5/l/IRC7E=
 k8s.io/klog/v2 v2.100.1 h1:7WCHKK6K8fNhTqfBhISHQ97KrnJNFZMcQvKp7gP/tmg=
 k8s.io/klog/v2 v2.100.1/go.mod h1:y1WjHnz7Dj687irZUWR/WLkLc5N1YHtjLdmgWjndZn0=
 k8s.io/utils v0.0.0-20230726121419-3b25d923346b h1:sgn3ZU783SCgtaSJjpcVVlRqd6GSnlTLKgpAAttJvpI=

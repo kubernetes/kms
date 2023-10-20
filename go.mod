@@ -6,7 +6,7 @@ go 1.20
 
 require (
 	github.com/gogo/protobuf v1.3.2
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 	k8s.io/apimachinery v0.0.0-20231020230052-c047e325a432
 )
 

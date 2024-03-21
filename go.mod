@@ -23,9 +23,3 @@ require (
 	google.golang.org/protobuf v1.33.0 // indirect
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 // indirect
 )
-
-replace (
-	k8s.io/api => k8s.io/api v0.0.0-20240307174752-eca1e18c8b79
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20240307173418-ebe5f9be2d2c
-	k8s.io/client-go => k8s.io/client-go v0.0.0-20240307181809-fb469da01963
-)

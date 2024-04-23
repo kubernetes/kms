@@ -6,7 +6,7 @@ go 1.22.0
 
 require (
 	github.com/gogo/protobuf v1.3.2
-	google.golang.org/grpc v1.58.3
+	google.golang.org/grpc v1.59.0
 )
 
 require (
@@ -19,4 +19,4 @@ require (
 	google.golang.org/protobuf v1.33.0 // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20240423013216-bb8822152cab
+replace k8s.io/kms => ../kms

@@ -7,8 +7,8 @@ go 1.20
 require (
 	github.com/gogo/protobuf v1.3.2
 	google.golang.org/grpc v1.56.3
-	k8s.io/apimachinery v0.0.0-20240404160804-ac31ee73e10f
-	k8s.io/client-go v0.0.0-20240404161545-a277ede7be0a
+	k8s.io/apimachinery v0.27.15
+	k8s.io/client-go v0.27.15
 	k8s.io/klog/v2 v2.90.1
 )
 

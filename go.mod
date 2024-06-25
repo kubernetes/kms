@@ -17,4 +17,4 @@ require (
 	google.golang.org/protobuf v1.34.1 // indirect
 )
 
-replace k8s.io/kms => ../kms
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20240626061443-e3238d482de2

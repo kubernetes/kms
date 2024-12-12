@@ -21,4 +21,4 @@ require (
 	google.golang.org/protobuf v1.35.1 // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20241206181643-8c60292e48e4
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20241212094400-146e532b5516

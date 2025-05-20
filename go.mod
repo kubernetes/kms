@@ -19,3 +19,5 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
 )
+
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20250516032956-da3bba90543c

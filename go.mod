@@ -7,8 +7,8 @@ go 1.24.0
 godebug default=go1.24
 
 require (
-	github.com/gogo/protobuf v1.3.2
 	google.golang.org/grpc v1.72.1
+	google.golang.org/protobuf v1.36.5
 )
 
 require (
@@ -18,7 +18,6 @@ require (
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb // indirect
-	google.golang.org/protobuf v1.36.5 // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20250701210144-852f12619baa
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20250715090235-1ebcba2516a6

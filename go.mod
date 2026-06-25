@@ -19,5 +19,3 @@ require (
 	golang.org/x/text v0.37.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa // indirect
 )
-
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20260602192419-f1a3b2b13478

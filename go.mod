@@ -20,4 +20,4 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa // indirect
 )
 
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20260910220915-6c11c83c4505
+replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20260912220903-93e88e8ed40d

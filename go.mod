@@ -2,9 +2,9 @@
 
 module k8s.io/kms
 
-go 1.27.0
+go 1.26.0
 
-godebug default=go1.27
+godebug default=go1.26
 
 require (
 	google.golang.org/grpc v1.85.0
@@ -17,5 +17,3 @@ require (
 	golang.org/x/text v0.43.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260928230214-8a89bd6388cc // indirect
 )
-
-replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20261102164403-9b85b23ad678
